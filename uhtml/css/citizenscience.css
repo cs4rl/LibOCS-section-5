@@ -64,7 +64,6 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://raw.githubusercontent.com/cs4rl/guide/42789f59a1892bad314fd176e2de08e7279858e5/artwork/infra-cover-temp-a.jpg);
   background-size: 159mm 229mm;
   display: flex;
   margin-top: 300mm;
